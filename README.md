@@ -40,6 +40,4 @@ cd Marathi-Calc
 python calc.py
 ```
 
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
-
 ## Happy Coding
