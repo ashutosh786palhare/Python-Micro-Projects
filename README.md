@@ -1,43 +1,38 @@
-# Marathi-Calc
- Do you know what is fun in this?
-I have used marathi language in it
-:joy::joy::joy::joy::joy::joy::joy:
+<div Align="center"><img alt="GIF" src="01%20Start/resources/a.png"/><h1> <a href="https://ashutosh786palhare.github.io">Python Micro Projects</a></h1></div>
+  
+**This Contain All the Python Micro Projects that I have done while understanding Python Concepts.**
 
-# What is Marathi-CalC
-<p>Marathi CalC is Simple Calculator Program Written in Pyrthon and I have used marathi language in it</p>
+**The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
 
-## Features
-<p>In this tool I added Some Features Like</p>
-<ul>
-  <li>Addition</li>
-  <li>Substraction</li>
- <li>Multiplication</li>
- <li>Division</li>
-</ul>
-<p>simply enter any command </p>
+**_[https://ashutosh786palhare.github.io](https://ashutosh786palhare.github.io)_ ⭐⭐⭐**
 
-## This Program Tested On :
-<ul>
-  <li>Kali Linux</li>
-  <li>Termux</li>
-  <li>MacOS</li>
-  <li>Ubuntu</li>
-  <li>Perrot Sec OS</li>
-</ul>
+### List of Projects :-
+* Marathi Command Line Calculator
+* GUI Calculator
+* Alarm Clock
+* To-Do List Application
+* Dice Roller
+* Password Manager
+* Password Generator
+* Currency Converter
+* Chatbot
+* Image Resizer
+* Web Scraper
+* Audio Player
+* Telegram Bots
+* Virtual Assistant
+* Barcode Scanner
+* Age Calculator
+* Virus Prank 
 
-# Installing and requirements
-<p>This tool require latest version of python . First run following command on your terminal</p>
+### License
 
-```
-apt-get -y install python git wget
-```
+    MIT License Copyright (c) 2023 Ashutosh Palhare
 
-## Installing (Kali Linux/Termux):
-
-```
-git clone https://github.com/ashutosh786palhare/Marathi-Calc
-cd Marathi-Calc
-python calc.py
-```
-
-## Happy Coding
+### Work By
+ 
+ <table>
+  <tr>
+    <td align="center"><a href="https://github.com/ashutosh786palhare"><img src="https://raw.githubusercontent.com/ashutosh786palhare/ashutosh786palhare/main/Photos/Ashutosh%20Palhare%20Famous%20Hacker%20Mask.jpeg" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/ashutosh786palhare" title="github"><img src="https://img.shields.io/github/followers/ashutosh786palhare?style=social"></a> <a href="https://twitter.com/AshutoshPalhare/" title="twitter"><img src="https://img.shields.io/twitter/follow/AshutoshPalhare?label=twitter&style=social"></a></td>
+   <tr>
+  <table>
