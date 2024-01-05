@@ -1,4 +1,5 @@
 # GUI Dice Roller
+![dice](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/9cb96973-2e9a-44c8-8e72-7e25e961e0e7)
 
 A simple GUI-based Dice Roller application created using Python and Tkinter, allowing users to roll a six-sided die.
 
