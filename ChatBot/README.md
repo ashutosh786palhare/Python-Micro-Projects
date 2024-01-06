@@ -1,10 +1,10 @@
 # Simple Python ChatBot
+![chatbot](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/609e6716-9879-4183-a11b-d84ce06a9457)
 
 This is a basic Python-based chatbot that uses a rule-based system to provide predefined responses to user inputs. The chatbot is implemented using Python's standard input/output functionality.
 
 ## Usage
-
-1. **Clone the Repository**
+**Clone the Repository**
 
    ```bash
    git clone https://github.com/ashutosh786palhare/Python-Micro-Projects/ChatBot.git 
@@ -25,14 +25,7 @@ Once the chatbot is running, it will display a welcome message and prompt you to
 To exit the chatbot, simply type "bye" and press Enter.
 
 # Example Conversations
-User: hi
-ChatBot: Hello!
-User: what is your name?
-ChatBot: I'm a chatbot. You can call me ChatBot!
-User: how are you?
-ChatBot: I'm doing well, thank you!
-User: bye
-ChatBot: Goodbye! Have a nice day!
+See ScreenShot
 
 ## Customization
 You can customize the chatbot's responses by modifying the responses dictionary in the chatbot.py file. Add new key-value pairs to handle different user inputs and define appropriate responses.
