@@ -1,4 +1,5 @@
 # Currency Converter App
+![cc](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/e77a3069-5097-4533-86cf-e4e2ddecde18)
 
 This is a simple Currency Converter GUI application developed using Python and Tkinter.
 
@@ -43,5 +44,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Developer
 
-- YourName
+- Ashutosh Palhare
 - [GitHub](https://github.com/ashutosh786palhare)
