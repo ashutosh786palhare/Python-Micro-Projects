@@ -1,4 +1,5 @@
 # Password Generator App
+![passgen](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/4f7e17c6-357d-4ce6-a455-f132a2bbf3a8)
 
 This is a simple password generator application created using Python's Tkinter library.
 
@@ -23,6 +24,7 @@ Ensure you have Python installed on your system.
 Clone the repository:
 ```bash
 git clone https://github.com/ashutosh786palhare/Pass-Gen.git
+ ```
 
 
 ## How to Use
@@ -38,3 +40,4 @@ Contributions are welcome! If you have any suggestions, improvements, or new fea
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
