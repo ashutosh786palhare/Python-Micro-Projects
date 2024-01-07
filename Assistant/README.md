@@ -1,4 +1,5 @@
 # GUI Virtual Assistant
+![VA](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/e87929f5-9f5e-47b3-a660-030e2dd9598b)
 
 This is a simple GUI-based virtual assistant created using Python that incorporates speech recognition and text-to-speech functionalities.
 
@@ -21,15 +22,15 @@ This is a simple GUI-based virtual assistant created using Python that incorpora
    Ensure you have the required Python libraries installed:
    ```bash
    pip install tkinter pyttsx3 SpeechRecognition
-```
+``
 
 
 2. **Run the Virtual Assistant:**
 Execute the Python script to start the virtual assistant:
 
-```bash
+``
 python main.py
-```
+``
 
 3. **Interacting with the Assistant:***
 
