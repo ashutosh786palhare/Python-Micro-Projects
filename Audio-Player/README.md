@@ -1,4 +1,5 @@
 # GUI Audio Player
+![MP](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/f5dc8b27-2c12-480e-b24b-9be40d60e23e)
 
 This GUI Audio Player is a simple music player built using Python's `tkinter` library and `pygame`. It allows users to play MP3 files, pause, resume, stop, and navigate through tracks using intuitive controls.
 
@@ -15,7 +16,7 @@ This GUI Audio Player is a simple music player built using Python's `tkinter` li
 
    ```bash
    git clone https://github.com/ashutosh786palhare/Audio-Player.git
-```
+``
 
 ## Install Dependencies
 
