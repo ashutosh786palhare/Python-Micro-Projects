@@ -19,7 +19,10 @@
 
 
 **ScreenShots**
-![tg4](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/8be3cef3-07c4-4826-9a7c-2e27d80899fb=200x400)
-![tg3](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/f3bf8df5-0ece-4cd4-8a44-77a4ac02709e=200x400)
-![tg2](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/ebd0f526-538a-4273-afc1-0992cc5aa627=200x400)
 ![tg1](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/3c26d0c3-fe20-4ba0-b6f5-7dd72ceafdcf=200x400)
+
+![tg2](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/ebd0f526-538a-4273-afc1-0992cc5aa627=200x400)
+
+![tg3](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/f3bf8df5-0ece-4cd4-8a44-77a4ac02709e=200x400)
+
+![tg4](https://github.com/ashutosh786palhare/Python-Micro-Projects/assets/53346137/8be3cef3-07c4-4826-9a7c-2e27d80899fb=200x400)
