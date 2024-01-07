@@ -21,16 +21,15 @@ This is a simple GUI-based virtual assistant created using Python that incorpora
 1. **Install Dependencies:**
    Ensure you have the required Python libraries installed:
    ```bash
-   pip install tkinter pyttsx3 SpeechRecognition
-``
+   pip install tkinter pyttsx3 SpeechRecognition 
 
 
 2. **Run the Virtual Assistant:**
 Execute the Python script to start the virtual assistant:
 
-``
+```bash
 python main.py
-``
+```
 
 3. **Interacting with the Assistant:***
 
